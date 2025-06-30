@@ -29,7 +29,7 @@ This project demonstrates that Shor's quantum error correction can successfully 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/quantum-bell-state-qec.git
+git clone [https://github.com/yourusername/quantum-bell-state-qec.git](https://github.com/ng-dev-insights/quantum-bell-state-qec)
 cd quantum-bell-state-qec
 ```
 
