@@ -167,14 +167,6 @@ You can modify:
 - Visualization parameters and plot styles
 - Performance metrics and analysis methods
 
-## Documentation
-
-Detailed documentation is available in the `docs/` directory:
-
-- **[Theoretical Background](docs/theoretical_background.md)**: Quantum error correction principles
-- **[Implementation Details](docs/implementation_details.md)**: Technical design decisions
-- **[Results Analysis](docs/results_analysis.md)**: Complete experimental findings
-
 ## Contributing
 
 We welcome contributions! Please see our contributing guidelines:
